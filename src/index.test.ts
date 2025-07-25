@@ -14,7 +14,7 @@ describe('FallbackAI', () => {
     },
     {
       aiName: AIProvider.GEMINI,
-      apiKey: 'AIzaSyDleSV8LaZ658FVcyRzvmDftu5ghiqoUm8',
+      apiKey: 'test-gemini-key',
       model: 'gemini-2.0-flash',
       priority: 2,
       parameters: { temperature: 0.8 },
